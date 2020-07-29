@@ -1,44 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 💻 Projeto
 
-## Available Scripts
+Essa aplicação é um clone da famosa rede social Twitter, ela foi feita de uma forma totalmente responsiva, ou seja, ela totalmente adaptável em uma tela de computador, um tablet, e a tela de um celular. E o CSS foi feita de uma forma mais dinâmica com o uso do styled-components.
 
-In the project directory, you can run:
+## 🚀 Tecnologias
 
-### `yarn start`
+Esse projeto foi desenvolvido com as seguinte tecnologia:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://reactjs.org)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Demonstração
 
-### `yarn test`
+Você pode ver uma demonstração nesse Link: https://twitter-clone001.netlify.app
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+# 💻 Project
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This application is a clone of the famous social network Twitter, it was made in a totally responsive way, that is, it is fully adaptable on a computer screen, a tablet, and a cell phone screen. And CSS was made in a more dynamic way with the use of styled-components.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🚀 Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was developed with the following technology:
 
-### `yarn eject`
+- [React] (https://reactjs.org)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Demonstration
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can see a demo at this link: https://twitter-clone001.netlify.app
