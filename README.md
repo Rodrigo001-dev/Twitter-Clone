@@ -21,7 +21,7 @@ This application is a clone of the famous social network Twitter, it was made in
 
 This project was developed with the following technology:
 
-- [React] (https://reactjs.org)
+- [React](https://reactjs.org)
 
 ## Demonstration
 
